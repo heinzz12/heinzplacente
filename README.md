@@ -1,12 +1,7 @@
-# heinzplacente
-Web Portfolio
-HEINZ RAINER ARDEZ PLACENTE
-
-10 Pampanga St. Brgy. Sto. Cristo, Bago Bantay, QC
-
-0927 254 6398/0926 684 2898
-
-heinz.placente@gmail.com
+# Heinz Rainer Placente
+# 10 Pampanga St. Brgy. Sto. Cristo, Bago Bantay, QC
+# 0927 254 6398/0926 684 2898
+# heinz.placente@gmail.com
 
 Career Objective
   
