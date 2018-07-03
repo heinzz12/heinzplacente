@@ -6,24 +6,34 @@
 
 heinz.placente@gmail.com
 
-Career Objective
+# Projects
+
+  # Payroll System
+  June 2016
+
+  Project descriptionThe Payroll System for HR Unit is automatically computes the salary of the Job order employees and complies with   the required format of HR Unit,Cashier and Accounting Unit.
   
-To contribute further on the development of your esteemed organization through active participation in company operations in ways that will enable me to enhance my skills and knowledge and to provide an opportunity for professional development and career growth.
-
-Technical Skills and Qualifications
-
-	Programming Languages: JAVA, VB & VB.net
-
-	Web Programming: HTML, CSS, JavaSrcipt, WordPress,Kajabi, Amazon Web Services(AWS)
-
-	Database: MYSQL, SQL Server, Sybase, MS Access
-
-	Office Productivity Software: MS Office and OpenOffice
-
-	Operating Systems: Windows, Linux and macOS 
-
-	Office Management
-
-	Records Management 
-
-	Database Administration
+  # Advice to Debit Accounts
+  June 2016
+  
+  This database system provides Index of payments and generates report complied with Government Accounting Manual and Commission on Audit.
+  
+  # Checks Issued Database
+  June 2015
+  
+  This database program gathers data in Landbank system and automatically generates Accounting and Cashier Reports complied with Government Account Manual.
+  
+  # Disbursement Voucher Form
+  June 2015
+  
+  This program generates Disbursement form for complied with Government Account Manual.
+  
+  # BIR Certificate Database System
+   January 2015
+   
+  This Database program for Accounting Unit computes/generates BIR Certificate 2306 and 2307.
+  
+  # Cash Advance and Liquidation Database
+   June 2014
+   
+  This database system monitors Cash Advance and Liquidation of employees. It also generates report complied with Government Accounting Manual.
