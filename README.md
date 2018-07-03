@@ -6,6 +6,10 @@
 
 heinz.placente@gmail.com
 
+# Summary
+
+A full-stack Developer experienced in Visual Basic/Visual Basic Application with a vast IT experience.Skills include analytical thinking and creative problem solving able to apply customer service concepts to IT to improve user experience for clients, employees and administration.
+
 # Works And Projects Done
 
 # Payroll System
